@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "id": "4c47",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-06T16:49:29.854Z",
+      "notes": "Test",
+      "position": {
+        "lat": "41.02964338716641",
+        "lng": "29.201660156250004"
+      }
+    },
+    {
+      "id": "c693",
+      "cityName": "Marmaris",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-06T16:54:00.323Z",
+      "notes": "Always the best",
+      "position": {
+        "lat": "36.99158465967016",
+        "lng": "28.273315429687504"
+      }
+    },
+    {
+      "id": "20ea",
+      "cityName": "Kusadasi",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-06T16:56:06.294Z",
+      "notes": "Classical",
+      "position": {
+        "lat": "37.83798775896515",
+        "lng": "27.273559570312504"
+      }
+    },
+    {
+      "id": "dbbc",
+      "cityName": "Fethiye",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-06T16:59:05.933Z",
+      "notes": "Wonderful",
+      "position": {
+        "lat": "36.61883440069682",
+        "lng": "29.11582946777344"
+      }
+    },
+    {
+      "id": "315e",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-06T16:59:05.933Z",
+      "notes": "The best stadium in the world",
+      "position": {
+        "lat": "41.03950054754638",
+        "lng": "28.994336128234867"
+      }
+    },
+    {
+      "id": "6266",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-03-06T17:02:14.238Z",
+      "notes": "My Home",
+      "position": {
+        "lat": "41.13072647639979",
+        "lng": "28.838279843330387"
+      }
+    },
+    {
+      "id": "9263",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-03-06T21:20:06.250Z",
+      "notes": "",
+      "position": {
+        "lat": "38.713375686254714",
+        "lng": "-9.133758544921877"
+      }
+    },
+    {
+      "id": "1b67",
+      "cityName": "La Queue-en-Brie",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-06T21:21:08.080Z",
+      "notes": "Nice city",
+      "position": {
+        "lat": "48.777912755501845",
+        "lng": "2.5708007812500004"
+      }
+    }
+  ]
+}
